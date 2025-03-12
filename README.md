@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=phi-00&show_icons=true&theme=cobalt" alt="GitHub Stats" style="height: 200px; width: auto; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phi-00&theme=cobalt" alt="Most Used Languages" style="height: 200px; width: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phi-00&theme=cobalt" alt="Most Used Languages" style="height: 160px; width: auto;">
 </div>
 
 ---
