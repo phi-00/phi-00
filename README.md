@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello! My name is Sofia Oliveira
-#### I am currently getting a BsC in Software Engineering at UMinho
+#### I am currently getting a BSc in Software Engineering at UMinho
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=phi-00&show_icons=true&theme=cobalt" alt="GitHub Stats" style="height: 200px; width: auto; margin-right: 10px;">
